@@ -1,16 +1,17 @@
-### Hi there 👋
+Formada en Backend y Frontend lo cual me permitió desarrollar competencias como pensamiento creativo, comunicación, adaptabilidad, dedicación y trabajo en equipo.
+Me describiría como una persona entusiasta, empática y emprendedora. 
 
-<!--
-**RomiMolina/RomiMolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnologias empleadas:
+· Data Base: PostgreSQL
+· Lenguaje: JavaScript
+· Front-End: React, Redux, CSS, Bootstrap, Taildwind, HTML
+· Back-End: NodeJs, ExpressJs, Sequelize
 
-Here are some ideas to get you started:
+Soft skills destacadas: 
+· Trabajo en equipo
+· Adaptabilidad y creatividad
+· Resolución de conflictos
+· Organización y solidaridad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me gusta aprender constantemente, tengo muchas ganas de crecer y rodearme de gente que me inspire.
+Gracias por visitar mi perfil.
