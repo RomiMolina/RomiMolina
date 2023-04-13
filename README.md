@@ -17,3 +17,8 @@ Soft skills destacadas:
 
 Me gusta aprender constantemente, tengo muchas ganas de crecer y rodearme de gente que me inspire.
 Gracias por visitar mi perfil.
+
+
+Puedes contactarme por:
+WhatsApp: 351-7889260
+LinkedIn: www.linkedin.com/in/romina-molina-9a1579194
