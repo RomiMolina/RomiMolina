@@ -1,6 +1,6 @@
 # Sobre mi:
 
-### >Formada en Backend y Frontend lo cual me permitió desarrollar competencias como pensamiento creativo, comunicación, adaptabilidad, dedicación y trabajo en equipo.
+### > Formada en Backend y Frontend lo cual me permitió desarrollar competencias como pensamiento creativo, comunicación, adaptabilidad, dedicación y trabajo en equipo.
 Me describiría como una persona entusiasta, empática y emprendedora.
 
 ***Tecnologias empleadas:
