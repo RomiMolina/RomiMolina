@@ -1,6 +1,6 @@
-Sobre mi:
+# Sobre mi:
 
->Formada en Backend y Frontend lo cual me permitió desarrollar competencias como pensamiento creativo, comunicación, adaptabilidad, dedicación y trabajo en equipo.
+### >Formada en Backend y Frontend lo cual me permitió desarrollar competencias como pensamiento creativo, comunicación, adaptabilidad, dedicación y trabajo en equipo.
 Me describiría como una persona entusiasta, empática y emprendedora.
 
 ***Tecnologias empleadas:
@@ -19,6 +19,6 @@ _Me gusta aprender constantemente, tengo muchas ganas de crecer y rodearme de ge
 Gracias por visitar mi perfil.
 
 
-- Puedes contactarme por:
+## Puedes contactarme por:
 - WhatsApp: 351-7889260
 - LinkedIn: www.linkedin.com/in/romina-molina-9a1579194
