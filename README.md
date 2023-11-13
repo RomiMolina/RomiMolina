@@ -4,16 +4,16 @@
 Me describiría como una persona entusiasta, empática y emprendedora.
 
 ***Tecnologias empleadas:
-· Data Base: PostgreSQL
-· Lenguaje: JavaScript
-· Front-End: React, Redux, CSS, Bootstrap, Taildwind, HTML
-· Back-End: NodeJs, ExpressJs, Sequelize***
+- Data Base: PostgreSQL
+- Lenguaje: JavaScript
+- Front-End: React, Redux, CSS, Bootstrap, Taildwind, HTML
+- Back-End: NodeJs, ExpressJs, Sequelize***
 
 ***Soft skills destacadas: 
-· Trabajo en equipo
-· Adaptabilidad y creatividad
-· Resolución de conflictos
-· Organización y solidaridad***
+- Trabajo en equipo
+- Adaptabilidad y creatividad
+- Resolución de conflictos
+- Organización y solidaridad***
 
 _Me gusta aprender constantemente, tengo muchas ganas de crecer y rodearme de gente que me inspire._
 Gracias por visitar mi perfil.
