@@ -20,6 +20,6 @@ Gracias por visitar mi perfil.
 
 
 ## Puedes contactarme por:
--Portfolio: https://portfolio-romina-molina-ac.vercel.app/
+- Portfolio: https://portfolio-romina-molina-ac.vercel.app/
 - WhatsApp: 351-7889260
 - LinkedIn: www.linkedin.com/in/romina-molina-9a1579194
